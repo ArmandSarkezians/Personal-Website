@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Armand Sarkezians' Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandSarkezians/Personal-Website.git"
+  },
+  "author": "Armand Sarkezians",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandSarkezians/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/ArmandSarkezians/Personal-Website#readme"
+}
